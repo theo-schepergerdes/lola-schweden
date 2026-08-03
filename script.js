@@ -73,7 +73,7 @@ const CONFIG = {
       images: ['assets/images/erinnerung2.jpg'],
     },
     {
-      title: 'Um dich zum Lachen zu bringen😊',
+      title: 'Um dich zum Lachen zu bringen :)',
       subtitle: 'Video',
       x: 50, y: 55,
       text: 'Wir teilen denn selben, weirden Humor. Aber genau deshalb fühle ich mich auch so wohl mit dir',
