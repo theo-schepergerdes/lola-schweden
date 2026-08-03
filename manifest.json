@@ -1,0 +1,19 @@
+{
+  "name": "Der Himmel über uns",
+  "short_name": "Unser Himmel",
+  "description": "Ein kleiner, magischer Nachthimmel – für dich.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05060f",
+  "theme_color": "#05060f",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
